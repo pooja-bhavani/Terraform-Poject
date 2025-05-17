@@ -41,8 +41,8 @@ graph TD
     prod_ec2_3 --> prod_dynamo
 ```
 
-![image](https://github.com/user-attachments/assets/8ef94553-e38e-4cc0-8c43-9a3565111093)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/9cb6f2f7-18e3-4e4c-af9c-4abaa656ebdb)
+
 
 
 ## Terraform Implementation
