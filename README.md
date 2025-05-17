@@ -2,7 +2,7 @@
 
 ## Architecture Diagram
 
-```mermaid
+```
 graph TD
     %% Define the environments
     subgraph "Development Environment"
