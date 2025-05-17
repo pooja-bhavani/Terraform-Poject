@@ -1,2 +1,3 @@
 # Terraform-Poject
-![image](https://github.com/user-attachments/assets/5a261c82-0f8c-4ebb-ab25-3a4598260e2b)
+![image](https://github.com/user-attachments/assets/8ef94553-e38e-4cc0-8c43-9a3565111093)
+
