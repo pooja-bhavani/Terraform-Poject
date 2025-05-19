@@ -41,7 +41,7 @@ graph TD
     prod_ec2_3 --> prod_dynamo
 ```
 
-![image](https://github.com/user-attachments/assets/9cb6f2f7-18e3-4e4c-af9c-4abaa656ebdb)
+![image](https://github.com/user-attachments/assets/e263436c-4191-4c85-8a03-2cefe5054963)
 
 
 
