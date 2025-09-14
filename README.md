@@ -4,7 +4,7 @@
 
 ```mermaid
 graph TD
-    %% Define the environments
+    %% Define the environments 
     subgraph "Development Environment"
         dev_ec2[EC2 Instance]
         dev_s3[S3 Bucket]
