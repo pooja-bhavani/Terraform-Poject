@@ -18,7 +18,7 @@ graph TD
     end
 
     subgraph "Production Environment"
-        prod_ec2_1[EC2 Instance 1]
+        prod_ec2_1[EC2 Instance 1] 
         prod_ec2_2[EC2 Instance 2]
         prod_ec2_3[EC2 Instance 3]
         prod_s3_1[S3 Bucket 1]
